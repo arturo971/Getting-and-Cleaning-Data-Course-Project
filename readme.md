@@ -7,6 +7,7 @@ Files in this repo
 -   Read me
 -   code
 -   Code Book
+-   Tidy data set
 
 Objectives of the project
 -------------------------
