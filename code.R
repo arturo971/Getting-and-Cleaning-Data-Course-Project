@@ -73,5 +73,5 @@ alldatabysubject<-group_by(alldata,subject,activity)
 mean_by_subj_and_activity<-summarise_all(alldatabysubject,mean)
 
 #Exporting the tidy data set into a csv file
-write.csv(alldatabysubject,"tidydata.csv")
+write.table(alldatabysubject,"tidydata.csv",row.names = F)
 
