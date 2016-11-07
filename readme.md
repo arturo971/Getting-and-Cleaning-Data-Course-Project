@@ -7,7 +7,9 @@ Files in this repo
 -   Read me
 -   code
 -   Code Book
--   Tidy data set
+-   Tidy data set in txt format
+-   Tidy data set in csv format
+
 
 Objectives of the project
 -------------------------
